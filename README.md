@@ -12,7 +12,7 @@ docker-compose up -d
 
 <br>
 
-## Конечные точки API
+## Конечные точки
 ### GET `/?name=xxx&message=xxx`
 Пример запроса
 ```bash
